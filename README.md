@@ -1,0 +1,1 @@
+# 840-Magic-Square-In-Grid
